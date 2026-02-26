@@ -6,7 +6,7 @@
 <p align="center">Building reliable, scalable web applications end‑to‑end.</p>
 
 ---
-
+ 
 ## 🚀 About Me
 
 I'm Muzamil Tahlil, a full‑stack web developer based in Somalia, focused on building performant frontends and robust backends. I care about clean architecture, readable code, and delivering features that matter.
